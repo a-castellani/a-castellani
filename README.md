@@ -1,6 +1,6 @@
 - 👋 Hi there!
 - 🌱 I’m currently learning react.
-- 📫 How to reach me ...
+
 
 <!---
 a-castellani/a-castellani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
