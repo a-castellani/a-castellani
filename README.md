@@ -5,7 +5,8 @@ I embarked on a coding adventure at Le Wagon boot camp, where I gained hands-on 
 I’m currently: 
 
 -  working on some projects
--  learning React
+-  mastering JavaScript
+-  learning React/Angular
 
 <!---
 a-castellani/a-castellani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
